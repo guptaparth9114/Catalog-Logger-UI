@@ -1,5 +1,5 @@
-import React from 'react';
-import './footer.css';
+import React from "react";
+import "./footer.css";
 function Footer() {
   return (
     <footer>
@@ -7,9 +7,15 @@ function Footer() {
       <div>
         <h6>Quick Links</h6>
         <ul>
-          <li><a href="https://www.kabadiwalaonline.com/">Home</a></li>
-          <li><a href="https://www.kabadiwalaonline.com/about-us/">About Us</a></li>
-          <li><a href="https://www.kabadiwalaonline.com/contact-us/">Contact Us</a></li>
+          <li>
+            <a href="https://main--catlog-logger.netlify.app/">Home</a>
+          </li>
+          <li>
+            <a href="https://main--catlog-logger.netlify.app/">About Us</a>
+          </li>
+          <li>
+            <a href="https://main--catlog-logger.netlify.app/">Contact Us</a>
+          </li>
         </ul>
       </div>
 
@@ -17,8 +23,16 @@ function Footer() {
       <div>
         <h6>Other Pages</h6>
         <ul>
-          <li><a href="https://www.kabadiwalaonline.com/privacy-policy/">Privacy Policy</a></li>
-          <li><a href="https://www.kabadiwalaonline.com/terms-and-conditions/">Terms and Conditions</a></li>
+          <li>
+            <a href="https://main--catlog-logger.netlify.app/">
+              Privacy Policy
+            </a>
+          </li>
+          <li>
+            <a href="https://main--catlog-logger.netlify.app/">
+              Terms and Conditions
+            </a>
+          </li>
         </ul>
       </div>
 
@@ -27,8 +41,14 @@ function Footer() {
         <h6>Get In Touch</h6>
         <p>198/30 Ramesh Market East of Kailash New Delhi 110065</p>
         <ul>
-          <li><a href="mailto:info@catalogue.com">Email: info@catalogue.com</a></li>
-          <li><a href="tel:7065424442">Phone: 7065424442</a></li>
+          <li>
+            <a href="guptaparth9114@gmail.com">
+              Email: guptaparth9114@gmail.com
+            </a>
+          </li>
+          <li>
+            <a href="">Phone: 9999999999</a>
+          </li>
         </ul>
       </div>
     </footer>
